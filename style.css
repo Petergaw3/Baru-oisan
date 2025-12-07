@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+   background: url("https://www.toptal.com/designers/subtlepatterns/patterns/dot-grid.png");
+    padding: 20px 0;
+}
+
+/* CONTAINER CV */
+.cv-container {
+    display: flex;
+    max-width: 1000px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.12);
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 30%;
+    background: #dddedf;
+    color: #080808;
+    padding: 30px 20px;
+    text-align: center;
+}
